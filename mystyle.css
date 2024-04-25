@@ -1,0 +1,28 @@
+.p{
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400, 700;
+    
+}
+
+body{
+    background-color: Grayish blue hsl(220, 15%, 55%);
+}
+
+.main-container{
+    background-color: red;
+    width: 250px;
+}
+
+img {
+    border-radius: 1px;
+    padding: 45px;
+    width: 150px;
+    box-shadow: 2px;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+.container-text{
+    background-color: brown;
+}
